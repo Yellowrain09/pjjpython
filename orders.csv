@@ -1,0 +1,7 @@
+﻿order_id,customer_id,order_date,sales,category
+O1001,C001,1/5/2026,162500000,Office Supplies
+O1002,C002,1/6/2026,101200000,Technology
+O1003,C002,1/6/2026,101200000,Technology
+O1004,C003,1/7/2026,,Office Supplies
+O1005,C004,1/9/2026,12200000,Furniture
+O1006,C999,1/10/2026,9000000,Technology
